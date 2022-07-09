@@ -8,7 +8,7 @@
 
 <h2 align='center'>Descrição</h2> 
 
-**Projeto** criado com **React.JS** para reforçar os conhecimentos e tbm aprender a ultilização de API
+**Projeto** criado com **React.JS** para reforçar os conhecimentos e tbm aprender a ultilização de API nas aplicações .
 
 <br/>
 
@@ -24,4 +24,6 @@ No **Projeto** voce adicona o CEP desejado onde irá trazer as informaçoes da A
 - [CSS]()
 - [JAVASCRIPT]()
 - [REACT.JS]()
+
+
 
