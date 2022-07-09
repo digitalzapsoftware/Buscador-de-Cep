@@ -8,7 +8,7 @@
 
 <h2 align='center'>Descrição</h2> 
 
-**Projeto** criado com **React.JS** para reforçar os conhecimentos e tbm aprender a ultilização de API nas aplicações
+**Projeto** criado com **React.JS** para reforçar os conhecimentos e tbm aprender a ultilização de API nas aplicações .
 
 <br/>
 
