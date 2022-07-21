@@ -14,7 +14,7 @@
 
 <h2 align='center'>Sobre</h2>
 
-No **Projeto** voce adicona o CEP desejado onde irá trazer as informaçoes da API, logo após irá aparecer a Rua, Complemento, Bairro e o estado .
+No **Projeto** Voce adiciona o CEP desejado onde irá trazer as informaçoes da API, logo após irá aparecer a Rua, Complemento, Bairro e o estado .
 <br/>
 
 ### **Tecnologias usadas** ->
